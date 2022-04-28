@@ -1,0 +1,25 @@
+header{
+    color:white;
+    background-color: blue;
+    padding: 10px;
+    grid-area: header;
+}
+nav{
+    color:white;
+    background-color:orange;
+    grid-area: nav;
+}
+main {
+    background-color: darkblue;
+    color: white;
+    grid-area: main;
+}
+aside {
+    background-color: lightgreen;
+    grid-area: aside;
+}
+footer {
+    background-color: rgb(13, 173, 13);
+    color: white;
+    grid-area: footer;
+}

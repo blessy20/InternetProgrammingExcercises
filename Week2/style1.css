@@ -1,0 +1,32 @@
+.csym019{
+    color: black;
+    background-color: aqua;
+    display: block;
+    float: left;
+    width: 300px;
+    border: 15px solid rgb(187, 253, 6);
+    padding: 50px;
+    margin: 20px;
+    
+
+}
+.csym015{
+    color: black;
+    background-color:goldenrod;
+    display: block;
+    float: left;
+    width: 300px;
+    border: 15px solid rgb(11, 231, 247);
+    padding: 50px;
+    margin: 20px;
+}
+.csym030{
+    color: black;
+    background-color:rgb(218, 32, 103);
+    display: block;
+    float: left;
+    width: 300px;
+    border: 15px solid rgb(141, 80, 10);
+    padding: 50px;
+    margin: 20px;
+}

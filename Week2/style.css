@@ -20,14 +20,15 @@
     background-color: aqua;
     display: block;
     float: left;
-    width:fit-content
+    width: 600px;
+    
 
 }
 .csym015{
     color: black;
     background-color:goldenrod;
     display: block;
-    float: right;
-    width: fit-content
+    float: left;
+    width: 600px;
 
 }
