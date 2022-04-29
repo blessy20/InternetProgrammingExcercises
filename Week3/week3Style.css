@@ -1,18 +1,20 @@
 header{
     color:white;
     background-color: blue;
-    padding: 10px;
+    padding: 20px;
     grid-area: header;
 }
 nav{
     color:white;
     background-color:orange;
     grid-area: nav;
+
 }
 main {
     background-color: darkblue;
     color: white;
     grid-area: main;
+    
 }
 aside {
     background-color: lightgreen;
@@ -21,5 +23,15 @@ aside {
 footer {
     background-color: rgb(13, 173, 13);
     color: white;
+    float: left;
     grid-area: footer;
+}
+.display{
+
+    display: grid;
+    grid-template-columns: 20% 50% 20%;
+    grid-template-rows: auto;
+    grid-template-areas: "header header header"
+                        "nav main aside"    
+                        "footer footer footer";
 }
